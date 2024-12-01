@@ -2,3 +2,4 @@ pandas
 numpy
 streamlit_extras
 plotly
+mysql-connector-python

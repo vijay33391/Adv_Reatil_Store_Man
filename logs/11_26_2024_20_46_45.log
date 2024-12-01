@@ -1,0 +1,9 @@
+[ 2024-11-26 20:46:52,650 ] 151 mysql.connector - INFO - package: mysql.connector.plugins
+[ 2024-11-26 20:46:52,650 ] 152 mysql.connector - INFO - plugin_name: caching_sha2_password
+[ 2024-11-26 20:46:52,650 ] 156 mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+[ 2024-11-26 20:46:52,650 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-26 20:46:52,650 ] 18 root - INFO - Database connection is created successfully
+[ 2024-11-26 20:46:52,650 ] 12 root - INFO - Features connection was established
+[ 2024-11-26 20:46:52,655 ] 22 root - INFO - Connection was established for features
+[ 2024-11-26 20:46:52,868 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-26 20:46:52,868 ] 85 root - INFO - Database connection closed successfully.

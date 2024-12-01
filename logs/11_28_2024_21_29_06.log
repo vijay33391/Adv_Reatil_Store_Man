@@ -1,0 +1,259 @@
+[ 2024-11-28 21:29:13,209 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:29:13,209 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:29:13,209 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:29:13,209 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:29:13,209 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:29:13,904 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:29:13,904 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:29:16,588 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:29:16,590 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:29:16,590 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:29:16,590 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:29:16,590 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:29:16,593 ] 93 root - ERROR - Database connection error: user_interface.lay_out() missing 1 required positional argument: 'self'
+[ 2024-11-28 21:29:16,593 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:29:16,593 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:29:23,942 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:29:23,942 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:29:23,942 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:29:23,942 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:29:23,942 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:29:23,942 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:29:23,942 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:29:26,453 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:29:26,456 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:29:26,456 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:29:26,456 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:29:26,456 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:29:26,459 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:29:26,459 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:29:29,117 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:29:29,118 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:29:29,118 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:29:29,118 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:29:29,118 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:29:29,121 ] 93 root - ERROR - Database connection error: user_interface.lay_out() missing 1 required positional argument: 'self'
+[ 2024-11-28 21:29:29,121 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:29:29,121 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:29:52,958 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:29:52,958 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:29:52,958 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:29:52,958 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:29:52,958 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:29:52,958 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:29:52,958 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:29:55,610 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:29:55,610 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:29:55,610 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:29:55,610 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:29:55,610 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:29:55,695 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:29:55,695 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:29:56,936 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:29:56,936 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:29:56,937 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:29:56,937 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:29:56,937 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:29:56,938 ] 93 root - ERROR - Database connection error: user_interface.lay_out() missing 1 required positional argument: 'self'
+[ 2024-11-28 21:29:56,938 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:29:56,938 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:29:59,684 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:29:59,684 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:29:59,684 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:29:59,684 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:29:59,684 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:29:59,684 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:29:59,684 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:30:01,656 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:30:01,656 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:30:01,656 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:30:01,656 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:30:01,656 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:30:01,656 ] 93 root - ERROR - Database connection error: user_interface.lay_out() missing 1 required positional argument: 'self'
+[ 2024-11-28 21:30:01,656 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:30:01,656 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:30:02,738 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:30:02,738 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:30:02,738 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:30:02,738 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:30:02,738 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:30:02,748 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:30:02,748 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:30:04,666 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:30:04,666 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:30:04,666 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:30:04,666 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:30:04,666 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:30:04,666 ] 93 root - ERROR - Database connection error: user_interface.lay_out() missing 1 required positional argument: 'self'
+[ 2024-11-28 21:30:04,666 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:30:04,666 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:31:11,197 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:31:11,197 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:31:11,197 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:31:11,197 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:31:11,198 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:31:11,200 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:31:11,200 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:31:13,441 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:31:13,441 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:31:13,441 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:31:13,441 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:31:13,441 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:31:13,446 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:31:13,450 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:31:15,765 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:31:15,765 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:31:15,765 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:31:15,765 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:31:15,765 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:31:15,765 ] 93 root - ERROR - Database connection error: `set_page_config()` can only be called once per app page, and must be called as the first Streamlit command in your script.
+
+For more information refer to the [docs](https://docs.streamlit.io/develop/api-reference/configuration/st.set_page_config).
+[ 2024-11-28 21:31:15,765 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:31:15,765 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:31:59,207 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:31:59,207 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:31:59,207 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:31:59,207 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:31:59,207 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:31:59,211 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:31:59,211 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:32:01,463 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:32:01,463 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:32:01,463 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:32:01,463 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:32:01,463 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:32:01,483 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:32:01,483 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:32:03,000 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:32:03,000 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:32:03,000 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:32:03,000 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:32:03,000 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:32:03,015 ] 93 root - ERROR - Database connection error: `set_page_config()` can only be called once per app page, and must be called as the first Streamlit command in your script.
+
+For more information refer to the [docs](https://docs.streamlit.io/develop/api-reference/configuration/st.set_page_config).
+[ 2024-11-28 21:32:03,015 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:32:03,015 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:32:04,563 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:32:04,563 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:32:04,563 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:32:04,563 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:32:04,563 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:32:04,567 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:32:04,567 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:32:06,211 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:32:06,211 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:32:06,211 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:32:06,212 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 21:32:06,212 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:32:06,214 ] 93 root - ERROR - Database connection error: `set_page_config()` can only be called once per app page, and must be called as the first Streamlit command in your script.
+
+For more information refer to the [docs](https://docs.streamlit.io/develop/api-reference/configuration/st.set_page_config).
+[ 2024-11-28 21:32:06,214 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:32:06,214 ] 99 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:35:33,485 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:35:33,485 ] 30 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:35:33,485 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:35:33,485 ] 34 root - INFO - Connection was established for features
+[ 2024-11-28 21:35:33,485 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:35:33,487 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:35:33,487 ] 109 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:35:35,199 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:35:35,199 ] 30 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:35:35,199 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:35:35,199 ] 34 root - INFO - Connection was established for features
+[ 2024-11-28 21:35:35,199 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:35:35,202 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:35:35,202 ] 109 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:35:36,136 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:35:36,136 ] 30 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:35:36,136 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:35:36,136 ] 34 root - INFO - Connection was established for features
+[ 2024-11-28 21:35:36,136 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:35:36,136 ] 103 root - ERROR - Database connection error: `set_page_config()` can only be called once per app page, and must be called as the first Streamlit command in your script.
+
+For more information refer to the [docs](https://docs.streamlit.io/develop/api-reference/configuration/st.set_page_config).
+[ 2024-11-28 21:35:36,136 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:35:36,136 ] 109 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:35:40,484 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:35:40,484 ] 30 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:35:40,484 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:35:40,484 ] 34 root - INFO - Connection was established for features
+[ 2024-11-28 21:35:40,484 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:35:40,484 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:35:40,484 ] 109 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:35:41,853 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:35:41,853 ] 30 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:35:41,853 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:35:41,853 ] 34 root - INFO - Connection was established for features
+[ 2024-11-28 21:35:41,855 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:35:41,855 ] 103 root - ERROR - Database connection error: `set_page_config()` can only be called once per app page, and must be called as the first Streamlit command in your script.
+
+For more information refer to the [docs](https://docs.streamlit.io/develop/api-reference/configuration/st.set_page_config).
+[ 2024-11-28 21:35:41,855 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:35:41,855 ] 109 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:35:44,064 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:35:44,064 ] 30 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:35:44,064 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:35:44,064 ] 34 root - INFO - Connection was established for features
+[ 2024-11-28 21:35:44,064 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:35:44,069 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:35:44,069 ] 109 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:36:39,734 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:36:39,734 ] 23 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:36:39,737 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:36:39,737 ] 27 root - INFO - Connection was established for features
+[ 2024-11-28 21:36:39,737 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:36:39,739 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:36:39,739 ] 102 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:37:01,657 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:37:01,657 ] 23 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:37:01,657 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:37:01,657 ] 27 root - INFO - Connection was established for features
+[ 2024-11-28 21:37:01,657 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:37:01,660 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:37:01,660 ] 102 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:37:03,969 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:37:03,969 ] 23 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:37:03,969 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:37:03,969 ] 27 root - INFO - Connection was established for features
+[ 2024-11-28 21:37:03,969 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:37:03,976 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:37:03,976 ] 102 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:37:08,235 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:37:08,235 ] 23 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:37:08,235 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:37:08,235 ] 27 root - INFO - Connection was established for features
+[ 2024-11-28 21:37:08,235 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:37:08,235 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:37:08,235 ] 102 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:37:14,047 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:37:14,047 ] 23 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:37:14,047 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:37:14,047 ] 27 root - INFO - Connection was established for features
+[ 2024-11-28 21:37:14,047 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:37:14,047 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:37:14,047 ] 102 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:54:16,458 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:54:16,458 ] 23 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:54:16,458 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:54:16,458 ] 27 root - INFO - Connection was established for features
+[ 2024-11-28 21:54:16,458 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:54:16,458 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:54:16,458 ] 124 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:54:18,599 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:54:18,599 ] 23 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:54:18,599 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:54:18,599 ] 27 root - INFO - Connection was established for features
+[ 2024-11-28 21:54:18,599 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:54:18,602 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:54:18,602 ] 124 root - INFO - Database connection closed successfully.
+[ 2024-11-28 21:54:23,649 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 21:54:23,649 ] 23 root - INFO - Database connection is created successfully
+[ 2024-11-28 21:54:23,650 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 21:54:23,650 ] 27 root - INFO - Connection was established for features
+[ 2024-11-28 21:54:23,650 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 21:54:23,656 ] 118 root - ERROR - Database connection error: 'Load_data' object has no attribute 'load_data'
+[ 2024-11-28 21:54:23,657 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 21:54:23,657 ] 124 root - INFO - Database connection closed successfully.

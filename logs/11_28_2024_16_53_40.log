@@ -1,0 +1,408 @@
+[ 2024-11-28 16:53:43,100 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 16:53:43,101 ] 18 root - INFO - Database connection is created successfully
+[ 2024-11-28 16:53:43,101 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 16:53:43,101 ] 22 root - INFO - Connection was established for features
+[ 2024-11-28 16:53:43,334 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 16:53:43,334 ] 87 root - INFO - Database connection closed successfully.
+[ 2024-11-28 16:53:46,672 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 16:53:46,672 ] 18 root - INFO - Database connection is created successfully
+[ 2024-11-28 16:53:46,686 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 16:53:46,687 ] 22 root - INFO - Connection was established for features
+[ 2024-11-28 16:53:46,694 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 16:53:46,694 ] 87 root - INFO - Database connection closed successfully.
+[ 2024-11-28 16:53:50,328 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 16:53:50,328 ] 18 root - INFO - Database connection is created successfully
+[ 2024-11-28 16:53:50,328 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 16:53:50,328 ] 22 root - INFO - Connection was established for features
+[ 2024-11-28 16:53:50,330 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 16:53:50,331 ] 87 root - INFO - Database connection closed successfully.
+[ 2024-11-28 16:53:51,718 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 16:53:51,718 ] 18 root - INFO - Database connection is created successfully
+[ 2024-11-28 16:53:51,718 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 16:53:51,718 ] 22 root - INFO - Connection was established for features
+[ 2024-11-28 16:53:51,737 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 16:53:51,737 ] 87 root - INFO - Database connection closed successfully.
+[ 2024-11-28 16:53:56,398 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 16:53:56,398 ] 18 root - INFO - Database connection is created successfully
+[ 2024-11-28 16:53:56,398 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 16:53:56,398 ] 22 root - INFO - Connection was established for features
+[ 2024-11-28 16:53:56,400 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 16:53:56,401 ] 87 root - INFO - Database connection closed successfully.
+[ 2024-11-28 16:53:58,306 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 16:53:58,306 ] 18 root - INFO - Database connection is created successfully
+[ 2024-11-28 16:53:58,306 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 16:53:58,306 ] 22 root - INFO - Connection was established for features
+[ 2024-11-28 16:53:58,308 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 16:53:58,308 ] 87 root - INFO - Database connection closed successfully.
+[ 2024-11-28 16:53:59,791 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 16:53:59,791 ] 18 root - INFO - Database connection is created successfully
+[ 2024-11-28 16:53:59,791 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 16:53:59,791 ] 22 root - INFO - Connection was established for features
+[ 2024-11-28 16:53:59,793 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 16:53:59,793 ] 87 root - INFO - Database connection closed successfully.
+[ 2024-11-28 18:49:34,207 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 18:49:34,217 ] 18 root - INFO - Database connection is created successfully
+[ 2024-11-28 18:49:34,217 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 18:49:34,217 ] 22 root - INFO - Connection was established for features
+[ 2024-11-28 18:49:34,236 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 18:49:34,236 ] 87 root - INFO - Database connection closed successfully.
+[ 2024-11-28 18:49:44,805 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 18:49:44,805 ] 18 root - INFO - Database connection is created successfully
+[ 2024-11-28 18:49:44,805 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 18:49:44,805 ] 22 root - INFO - Connection was established for features
+[ 2024-11-28 18:49:44,818 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 18:49:44,820 ] 87 root - INFO - Database connection closed successfully.
+[ 2024-11-28 18:50:11,568 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 18:50:11,568 ] 18 root - INFO - Database connection is created successfully
+[ 2024-11-28 18:50:11,568 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 18:50:11,568 ] 22 root - INFO - Connection was established for features
+[ 2024-11-28 18:50:11,568 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 18:50:11,568 ] 87 root - INFO - Database connection closed successfully.
+[ 2024-11-28 18:50:13,719 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 18:50:13,719 ] 18 root - INFO - Database connection is created successfully
+[ 2024-11-28 18:50:13,719 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 18:50:13,719 ] 22 root - INFO - Connection was established for features
+[ 2024-11-28 18:50:13,719 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 18:50:13,719 ] 87 root - INFO - Database connection closed successfully.
+[ 2024-11-28 18:50:15,668 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 18:50:15,668 ] 18 root - INFO - Database connection is created successfully
+[ 2024-11-28 18:50:15,668 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 18:50:15,668 ] 22 root - INFO - Connection was established for features
+[ 2024-11-28 18:50:15,675 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 18:50:15,675 ] 87 root - INFO - Database connection closed successfully.
+[ 2024-11-28 18:58:21,176 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 18:58:21,176 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 18:58:21,176 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 18:58:21,176 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 18:58:21,176 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 18:58:21,176 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 18:58:21,176 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 18:58:24,779 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 18:58:24,779 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 18:58:24,779 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 18:58:24,779 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 18:58:24,779 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 18:58:24,801 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 18:58:24,801 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 18:58:31,250 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 18:58:31,250 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 18:58:31,250 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 18:58:31,250 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 18:58:31,250 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 18:58:31,250 ] 86 root - ERROR - Database connection error: RadioMixin.radio() missing 1 required positional argument: 'options'
+[ 2024-11-28 18:58:31,250 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 18:58:31,250 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 18:58:48,942 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 18:58:48,942 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 18:58:48,942 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 18:58:48,942 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 18:58:48,942 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 18:58:48,942 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 18:58:48,942 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 18:58:50,325 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 18:58:50,325 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 18:58:50,325 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 18:58:50,325 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 18:58:50,325 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 18:58:50,329 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 18:58:50,329 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 18:58:51,972 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 18:58:51,976 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 18:58:51,976 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 18:58:51,976 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 18:58:51,976 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 18:58:51,976 ] 86 root - ERROR - Database connection error: RadioMixin.radio() missing 1 required positional argument: 'options'
+[ 2024-11-28 18:58:51,976 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 18:58:51,976 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:00:12,704 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:00:12,704 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:00:12,704 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:00:12,704 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 19:00:12,704 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:00:12,707 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:00:12,707 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:00:14,531 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:00:14,531 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:00:14,531 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:00:14,531 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 19:00:14,531 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:00:14,532 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:00:14,532 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:00:17,335 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:00:17,335 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:00:17,335 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:00:17,335 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 19:00:17,335 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:00:17,338 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:00:17,338 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:01:22,373 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:01:22,373 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:01:22,373 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:01:22,373 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 19:01:22,373 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:01:22,373 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:01:22,373 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:01:25,297 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:01:25,297 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:01:25,297 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:01:25,297 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 19:01:25,297 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:01:25,307 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:01:25,307 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:01:26,377 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:01:26,377 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:01:26,377 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:01:26,377 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 19:01:26,377 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:01:26,377 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:01:26,377 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:01:27,165 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:01:27,165 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:01:27,165 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:01:27,165 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 19:01:27,165 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:01:27,165 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:01:27,165 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:08:00,132 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:08:00,132 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:08:00,132 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:08:00,132 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 19:08:00,132 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:08:00,143 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:08:00,144 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:08:03,193 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:08:04,726 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:08:04,726 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:08:04,726 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 19:08:04,726 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:08:04,737 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:08:04,737 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:08:06,771 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:08:06,771 ] 19 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:08:06,771 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:08:06,771 ] 23 root - INFO - Connection was established for features
+[ 2024-11-28 19:08:06,771 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:08:06,771 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:08:06,771 ] 92 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:35:05,676 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:35:05,676 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:35:05,679 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:35:05,679 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:35:05,679 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:35:05,681 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:35:05,681 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:35:07,299 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:35:07,299 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:35:07,299 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:35:07,299 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:35:07,299 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:35:07,314 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:35:07,314 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:35:08,353 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:35:08,353 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:35:08,353 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:35:08,353 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:35:08,353 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:35:08,357 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:35:08,357 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:35:09,164 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:35:09,164 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:35:09,164 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:35:09,164 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:35:09,164 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:35:09,187 ] 53 root - INFO - Data fetched successfully for saving to CSV.
+[ 2024-11-28 19:35:09,212 ] 83 root - INFO - CSV file created and data saved successfully.
+[ 2024-11-28 19:35:09,212 ] 87 root - INFO - Data is refreshed and and save into the csv file
+[ 2024-11-28 19:35:09,212 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:35:09,212 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:35:10,916 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:35:10,916 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:35:10,916 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:35:10,916 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:35:10,916 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:35:10,920 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:35:10,920 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:35:19,362 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:35:19,362 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:35:19,362 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:35:19,362 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:35:19,362 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:35:19,424 ] 53 root - INFO - Data fetched successfully for saving to CSV.
+[ 2024-11-28 19:35:19,445 ] 69 root - INFO - Existing CSV file found. Appending new transactions.
+[ 2024-11-28 19:35:19,450 ] 86 root - ERROR - Error occurred while saving data to CSV: Index(['TransactionID'], dtype='object')
+[ 2024-11-28 19:35:19,450 ] 90 root - INFO - error was occured while Refreshing data 
+[ 2024-11-28 19:35:19,450 ] 109 root - ERROR - Database connection error: Error in script [D:\end_to_end\ml\retail_store\app.py] at line [86]: Error in script [D:\end_to_end\ml\retail_store\src\Dash_Board\dash_functionality.py] at line [75]: Index(['TransactionID'], dtype='object')
+[ 2024-11-28 19:35:19,450 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:35:19,450 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:35:31,604 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:35:31,604 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:35:31,604 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:35:31,604 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:35:31,604 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:35:31,609 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:35:31,609 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:35:33,852 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:35:33,852 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:35:33,852 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:35:33,852 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:35:33,852 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:35:33,858 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:35:33,858 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:35:35,638 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:35:35,638 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:35:35,638 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:35:35,638 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:35:35,638 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:35:35,638 ] 53 root - INFO - Data fetched successfully for saving to CSV.
+[ 2024-11-28 19:35:35,650 ] 69 root - INFO - Existing CSV file found. Appending new transactions.
+[ 2024-11-28 19:35:35,651 ] 86 root - ERROR - Error occurred while saving data to CSV: Index(['TransactionID'], dtype='object')
+[ 2024-11-28 19:35:35,651 ] 90 root - INFO - error was occured while Refreshing data 
+[ 2024-11-28 19:35:35,651 ] 109 root - ERROR - Database connection error: Error in script [D:\end_to_end\ml\retail_store\app.py] at line [86]: Error in script [D:\end_to_end\ml\retail_store\src\Dash_Board\dash_functionality.py] at line [75]: Index(['TransactionID'], dtype='object')
+[ 2024-11-28 19:35:35,651 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:35:35,651 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:35:36,617 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:35:36,618 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:35:36,618 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:35:36,618 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:35:36,618 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:35:36,621 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:35:36,621 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:35:38,446 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:35:38,446 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:35:38,446 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:35:38,446 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:35:38,446 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:35:38,450 ] 53 root - INFO - Data fetched successfully for saving to CSV.
+[ 2024-11-28 19:35:38,455 ] 69 root - INFO - Existing CSV file found. Appending new transactions.
+[ 2024-11-28 19:35:38,455 ] 86 root - ERROR - Error occurred while saving data to CSV: Index(['TransactionID'], dtype='object')
+[ 2024-11-28 19:35:38,455 ] 90 root - INFO - error was occured while Refreshing data 
+[ 2024-11-28 19:35:38,455 ] 109 root - ERROR - Database connection error: Error in script [D:\end_to_end\ml\retail_store\app.py] at line [86]: Error in script [D:\end_to_end\ml\retail_store\src\Dash_Board\dash_functionality.py] at line [75]: Index(['TransactionID'], dtype='object')
+[ 2024-11-28 19:35:38,455 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:35:38,455 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:35:39,839 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:35:39,839 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:35:39,839 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:35:39,839 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:35:39,839 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:35:39,842 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:35:39,842 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:35:40,496 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:35:40,496 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:35:40,496 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:35:40,496 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:35:40,497 ] 15 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:35:40,501 ] 53 root - INFO - Data fetched successfully for saving to CSV.
+[ 2024-11-28 19:35:40,503 ] 69 root - INFO - Existing CSV file found. Appending new transactions.
+[ 2024-11-28 19:35:40,503 ] 86 root - ERROR - Error occurred while saving data to CSV: Index(['TransactionID'], dtype='object')
+[ 2024-11-28 19:35:40,503 ] 90 root - INFO - error was occured while Refreshing data 
+[ 2024-11-28 19:35:40,503 ] 109 root - ERROR - Database connection error: Error in script [D:\end_to_end\ml\retail_store\app.py] at line [86]: Error in script [D:\end_to_end\ml\retail_store\src\Dash_Board\dash_functionality.py] at line [75]: Index(['TransactionID'], dtype='object')
+[ 2024-11-28 19:35:40,503 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:35:40,503 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:41:56,505 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:41:56,505 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:41:56,505 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:41:56,505 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:41:56,505 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:41:56,507 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:41:56,507 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:41:58,237 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:41:58,237 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:41:58,237 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:41:58,237 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:41:58,237 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:41:58,249 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:41:58,249 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:41:59,215 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:41:59,215 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:41:59,217 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:41:59,217 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:41:59,217 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:41:59,274 ] 54 root - INFO - Data fetched successfully for saving to CSV.
+[ 2024-11-28 19:41:59,320 ] 70 root - INFO - Existing CSV file found. Appending new transactions.
+[ 2024-11-28 19:41:59,320 ] 88 root - ERROR - Error occurred while saving data to CSV: Index(['TransactionID'], dtype='object')
+[ 2024-11-28 19:41:59,321 ] 90 root - INFO - error was occured while Refreshing data 
+[ 2024-11-28 19:41:59,322 ] 109 root - ERROR - Database connection error: Error in script [D:\end_to_end\ml\retail_store\app.py] at line [86]: Error in script [D:\end_to_end\ml\retail_store\src\Dash_Board\dash_functionality.py] at line [76]: Index(['TransactionID'], dtype='object')
+[ 2024-11-28 19:41:59,322 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:41:59,322 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:51:04,373 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:51:04,373 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:51:04,375 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:51:04,375 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:51:04,375 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:51:04,376 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:51:04,376 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:51:06,555 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:51:06,556 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:51:06,556 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:51:06,556 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:51:06,556 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:51:06,561 ] 54 root - INFO - Data fetched successfully for saving to CSV.
+[ 2024-11-28 19:51:06,566 ] 70 root - INFO - Existing CSV file found. Appending new transactions.
+[ 2024-11-28 19:51:06,582 ] 80 root - INFO - New transactions appended successfully.
+[ 2024-11-28 19:51:06,582 ] 87 root - INFO - Data is refreshed and and save into the csv file
+[ 2024-11-28 19:51:06,582 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:51:06,582 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:51:16,832 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:51:16,832 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:51:16,832 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:51:16,832 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:51:16,832 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:51:16,832 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:51:16,832 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:51:37,307 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:51:37,307 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:51:37,307 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:51:37,307 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:51:37,307 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:51:37,313 ] 54 root - INFO - Data fetched successfully for saving to CSV.
+[ 2024-11-28 19:51:37,324 ] 70 root - INFO - Existing CSV file found. Appending new transactions.
+[ 2024-11-28 19:51:37,324 ] 80 root - INFO - New transactions appended successfully.
+[ 2024-11-28 19:51:37,324 ] 87 root - INFO - Data is refreshed and and save into the csv file
+[ 2024-11-28 19:51:37,324 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:51:37,324 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:51:38,610 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:51:38,610 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:51:38,610 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:51:38,610 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:51:38,610 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:51:38,614 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:51:38,614 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:53:08,935 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:53:08,935 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:53:08,935 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:53:08,935 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:53:08,935 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:53:08,940 ] 54 root - INFO - Data fetched successfully for saving to CSV.
+[ 2024-11-28 19:53:08,942 ] 70 root - INFO - Existing CSV file found. Appending new transactions.
+[ 2024-11-28 19:53:08,942 ] 80 root - INFO - New transactions appended successfully.
+[ 2024-11-28 19:53:08,942 ] 87 root - INFO - Data is refreshed and and save into the csv file
+[ 2024-11-28 19:53:08,942 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:53:08,942 ] 115 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:58:24,633 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:58:24,633 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:58:24,636 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:58:24,636 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:58:24,636 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:58:24,638 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:58:24,640 ] 98 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:58:27,192 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:58:27,192 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:58:27,192 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:58:27,192 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:58:27,192 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:58:27,203 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:58:27,203 ] 98 root - INFO - Database connection closed successfully.
+[ 2024-11-28 19:58:28,462 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 19:58:28,462 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 19:58:28,462 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 19:58:28,462 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 19:58:28,462 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 19:58:28,465 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 19:58:28,465 ] 98 root - INFO - Database connection closed successfully.
+[ 2024-11-28 20:01:13,245 ] 30 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-28 20:01:13,249 ] 20 root - INFO - Database connection is created successfully
+[ 2024-11-28 20:01:13,249 ] 12 root - INFO - Features connection was established
+[ 2024-11-28 20:01:13,249 ] 24 root - INFO - Connection was established for features
+[ 2024-11-28 20:01:13,249 ] 16 root - INFO - For refresh, the data connection was established.
+[ 2024-11-28 20:01:13,258 ] 67 root - INFO - Connection successfully closed.
+[ 2024-11-28 20:01:13,258 ] 98 root - INFO - Database connection closed successfully.

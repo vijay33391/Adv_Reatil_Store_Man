@@ -1,0 +1,32 @@
+[ 2024-11-22 21:26:59,302 ] 16 root - INFO - Features connection was established 
+[ 2024-11-22 21:27:01,678 ] 16 root - INFO - Features connection was established 
+[ 2024-11-22 21:34:24,590 ] 16 root - INFO - Features connection was established 
+[ 2024-11-22 21:34:26,926 ] 16 root - INFO - Features connection was established 
+[ 2024-11-22 21:36:59,436 ] 16 root - INFO - Features connection was established 
+[ 2024-11-22 21:37:01,405 ] 16 root - INFO - Features connection was established 
+[ 2024-11-22 21:37:39,424 ] 16 root - INFO - Features connection was established 
+[ 2024-11-22 21:37:41,980 ] 16 root - INFO - Features connection was established 
+[ 2024-11-22 21:47:17,793 ] 151 mysql.connector - INFO - package: mysql.connector.plugins
+[ 2024-11-22 21:47:17,793 ] 152 mysql.connector - INFO - plugin_name: caching_sha2_password
+[ 2024-11-22 21:47:17,793 ] 156 mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+[ 2024-11-22 21:47:17,814 ] 29 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-22 21:47:17,814 ] 18 root - INFO - Data base connection is created sussfully
+[ 2024-11-22 21:47:17,814 ] 16 root - INFO - Features connection was established 
+[ 2024-11-22 21:47:17,814 ] 22 root - INFO - connection was establied for features
+[ 2024-11-22 21:47:20,679 ] 29 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-22 21:47:20,679 ] 18 root - INFO - Data base connection is created sussfully
+[ 2024-11-22 21:47:20,679 ] 16 root - INFO - Features connection was established 
+[ 2024-11-22 21:47:20,679 ] 22 root - INFO - connection was establied for features
+[ 2024-11-22 21:47:21,110 ] 29 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-22 21:47:21,110 ] 42 root - INFO - Data base connection is created sussfully
+[ 2024-11-22 21:47:21,110 ] 16 root - INFO - Features connection was established 
+[ 2024-11-22 21:47:21,110 ] 44 root - INFO - connection was establied for features
+[ 2024-11-22 21:50:40,389 ] 29 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-22 21:50:40,389 ] 17 root - INFO - Database connection is created successfully
+[ 2024-11-22 21:50:40,389 ] 16 root - INFO - Features connection was established 
+[ 2024-11-22 21:50:40,393 ] 21 root - INFO - Connection was established for features
+[ 2024-11-22 21:50:44,392 ] 29 root - INFO - Successfully connected to the database 'Retail_Store'
+[ 2024-11-22 21:50:44,392 ] 17 root - INFO - Database connection is created successfully
+[ 2024-11-22 21:50:44,399 ] 16 root - INFO - Features connection was established 
+[ 2024-11-22 21:50:44,399 ] 21 root - INFO - Connection was established for features
+[ 2024-11-22 21:50:44,401 ] 41 root - INFO - Database connection already established, proceeding with add items operation.

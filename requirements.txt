@@ -1,2 +1,4 @@
 pandas
 numpy
+streamlit_extras
+plotly

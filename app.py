@@ -9,6 +9,10 @@ from src.Dash_Board.dash_functionality import Load_data
 from matplotlib import pyplot as plt
 import plotly.express as px
 import pandas as pd
+import warnings
+
+warnings.filterwarnings("ignore", category=FutureWarning)
+
 
 
 
@@ -148,7 +152,7 @@ def main():
                 if data is  None:
                     try:
             # Load the data from the saved CSV if not already loaded
-                        data = pd.read_csv("D:/end_to_end/ml/retail_store/transactions.csv") 
+                        data = pd.read_csv("D:\\end_to_end\\ml\\RetailStore_manament\\transactions.csv") 
                         st.success("Data loaded successfully for visualization!")
 
             
